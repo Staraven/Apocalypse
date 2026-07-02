@@ -1,0 +1,30 @@
+# Unreal Engine - generated/local files
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Assets - too large for GitHub, licensed third-party content
+Content/
+Section1/
+
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.VC.db
+*.opendb
+*.suo
+*.user
+*.DotSettings.user
+
+# Generated project files
+*.sln
+
+# Compiled output
+*.pdb
+*.exp
+*.lib
+*.dll
+*.exe
