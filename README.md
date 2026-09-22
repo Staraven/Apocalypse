@@ -2,8 +2,9 @@
 
 A first-person zombie wave-survival game built with Unreal Engine 5.4 and C++.
 
-![Gameplay Screenshot](<img width="1896" height="1000" alt="ss2" src="https://github.com/user-attachments/assets/82cf6c87-b4b5-402b-9b34-c75e4a7ed3c8" />
-)
+<img width="1917" height="845" alt="SS" src="https://github.com/user-attachments/assets/312615c4-4f9a-4ed1-80dd-337e393278cd" />
+<img width="1896" height="1000" alt="ss2" src="https://github.com/user-attachments/assets/82cf6c87-b4b5-402b-9b34-c75e4a7ed3c8" />
+
 
 ## Overview
 
